@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/lucco/source/repos/maimed emulator/maimed emulator/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "d51186e1f9105fa023c93a6329603d8baa6a5faf5367882770362ade29cf153d"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/lucco/source/repos/maimed emulator/maimed emulator/memory.h"
+          },
+          "hashes": {
+            "sha-256": "35a6aae8fc8214307b82e537b0d99fc8bcd3710571d8edf6ee061df76ffe5917"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::last_address_accessed' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::last_address_accessed</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::last_waswritten' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::last_waswritten</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::last_wasread' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::last_wasread</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::is_reserved' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::is_reserved</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::last_read' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::last_read</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\lucco\source\repos\MAiMEd emulator\MAiMEd emulator\</FILEPATH>
+      <FILENAME>memory.cpp</FILENAME>
+      <LINE>30</LINE>
+      <COLUMN>8</COLUMN>
+    </SFA>
+    <DEFECTCODE>26495</DEFECTCODE>
+    <DESCRIPTION>Variable 'Memory::last_written' is uninitialized. Always initialize a member variable (type.6).</DESCRIPTION>
+    <FUNCTION>Memory::{ctor}</FUNCTION>
+    <DECORATED>??0Memory@@QEAA@H@Z</DECORATED>
+    <FUNCLINE>30</FUNCLINE>
+    <ADDITIONALINFO>
+      <targetSymbol>Memory::last_written</targetSymbol>
+    </ADDITIONALINFO>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
